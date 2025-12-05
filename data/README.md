@@ -1,4 +1,4 @@
-#Final_Project_CS1410
+# Final_Project_CS1410
 Super Smash Bros. Ultimate (SSBU) is a video game in which characters from different Nintendo franchises battle against each other. Because of the game’s popularity, a large competitive scene has developed, where players participate in tournaments to test their skills. However, for players who are new to competitive play, the rules, settings, and stage choices can be confusing and intimidating.
 
 At Southern Utah University, we have an active competitive Smash scene where new players regularly join tournaments. Many of them are not familiar with competitive formats or which stages are best suited for their characters. My project aims to make this easier by creating a Python program that helps players find the best stage for each character in SSBU. The program will allow users to browse characters, learn about their best stages, and understand why certain stages benefit them. This tool will help newcomers feel more confident and prepared for competitive play.
